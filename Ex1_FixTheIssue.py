@@ -10,4 +10,4 @@ The output looks like this:
 '''
 
 for x in range(5):
-    print x
+    print x**3
