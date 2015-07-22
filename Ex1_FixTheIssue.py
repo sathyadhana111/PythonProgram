@@ -11,3 +11,13 @@ The output looks like this:
 
 for x in range(5):
     print x**3
+
+'''
+Solution:
+
+0
+1
+8
+27
+64
+'''
